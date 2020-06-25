@@ -1,0 +1,7 @@
+# Default ignored files
+/.idea
+/build
+*/build
+*.iml
+*.class
+.gradle
