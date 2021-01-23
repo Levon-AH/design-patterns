@@ -2,4 +2,5 @@ rootProject.name = 'design-patterns'
 include 'strategy'
 include 'observer'
 include 'decorator'
+include 'command'
 
